@@ -1,4 +1,4 @@
-# webcam_capture
+# Webcam_capture
 
 Descargar OpenCV en cas de no disposar d'ell mirjançant la següent comanda
 
